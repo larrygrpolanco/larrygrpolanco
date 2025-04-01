@@ -30,7 +30,7 @@ My development philosophy centers on creating tools that are genuinely useful an
 -   Extend human capabilities rather than aiming to replace them.
 -   Are accessible and intuitive for those who need them.
 
-My diverse background—spanning music, education, construction, and research—gives me a unique perspective on problem-solving. I've learned that meaningful innovation often happens when we connect seemingly unrelated ideas and focus on the underlying human needs.
+My background—spanning music, education, construction, and research—gives me a unique perspective on problem-solving. I've learned that meaningful innovation often happens when we connect seemingly unrelated ideas and focus on the underlying human needs.
 
 ### Let's connect
 
