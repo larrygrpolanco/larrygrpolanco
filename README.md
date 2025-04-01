@@ -10,7 +10,7 @@ I believe technology should serve as a means, not an end—a powerful toolkit fo
 
 Here are a couple of projects I'm actively developing:
 
--   **[Taped Chinese](https://github.com/larrygrpolanco/standard-chinese-platform)**: A modernized web app reviving the FSI public domain Chinese curriculum. Features LLM-powered exercises to enhance relevance and personalization, addressing gaps in the original course.
+-   **[Taped Chinese](https://github.com/larrygrpolanco/standard-chinese-platform)**: Digitized, modernized, and updated web application of the FSI public domain Chinese curriculum. LLM powered exercises were added to each unit to address the weaknesses of the original course and make learning more relevant and personal
     *(Tech: SvelteKit, LLMs)*
 
 ### Selected Past Work
