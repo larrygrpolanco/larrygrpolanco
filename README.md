@@ -8,7 +8,7 @@ I see technology as a means rather than an end—a powerful toolkit for addressi
 
 ### What I'm working on
 
-- **[Taped Chinese](tapedchinese.com)**: Digitized, modernized, and updated web application of the FSI public domain Chinese curriculum. LLM powered exercises were added to each unit to address the weaknesses of the original course and make learning more relevant and personal
+- **[Taped Chinese](https://github.com/larrygrullon/standard-chinese-platform)**: Digitized, modernized, and updated web application of the FSI public domain Chinese curriculum. LLM powered exercises were added to each unit to address the weaknesses of the original course and make learning more relevant and personal
 - **[Fulbright Planner](https://github.com/larrygrullon/eta-lesson-planner)**: A web app that generates context-specific lesson plans for educators in Taiwan, saving hours of planning time while improving instructional quality
 
 
