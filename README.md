@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Larry
+## Hi, I'm Larry
 
 I build tools that solve real problems in education and research. My work lives at the intersection of linguistics, data analysis, and practical application—where technical solutions meet human needs.
 
@@ -8,6 +8,7 @@ I see technology as a means rather than an end—a powerful toolkit for addressi
 
 ### What I'm working on
 
+- **[Taped Chinese](https://github.com/larrygrullon/standard-chinese-platform)**: Digitized, modernized, and updated web application of the FSI public domain Chinese curriculum. LLM powered exercises were added to each unit to address the weaknesses of the original course and make learning more relevant and personal
 - **[Fulbright Planner](https://github.com/larrygrullon/eta-lesson-planner)**: A web app that generates context-specific lesson plans for educators in Taiwan, saving hours of planning time while improving instructional quality
 
 
@@ -27,5 +28,5 @@ I'm always interested in collaborating on projects that help people learn, commu
 
 ```python
 def my_philosophy():
-    return "Technology is most powerful when it amplifies our capacity to understand and help one another."
+    return "I don't like technology just for technology's sake. I build to solve real problems, treating people as ends in themselves, not the tools we create."
 ```
