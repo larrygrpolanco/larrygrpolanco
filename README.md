@@ -10,6 +10,8 @@ I believe technology should serve as a means, not an end—a powerful toolkit fo
 
 Here are a couple of projects I'm actively developing:
 
+-   **[Hobbesian Mind Simulator](https://github.com/larrygrpolanco/hobbesian-mind)**: A philosophical AI system implementing Thomas Hobbes' model of human cognition from "Leviathan" (1651). This agent-based system processes input through sequential stages mirroring Hobbes' materialist theory—from sense perception through imagination to trains of thought—creating responses grounded in historical philosophy. (Tech: Python, asyncio, DeepSeek LLM API)
+
 -   **[Taped Chinese](https://github.com/larrygrpolanco/standard-chinese-platform)**: Digitized, modernized, and updated web application of the FSI public domain Chinese curriculum. LLM powered exercises were added to each unit to address the weaknesses of the original course and make learning more relevant and personal.
     *(Tech: SvelteKit, Supabase, LLM APIs)*
 
