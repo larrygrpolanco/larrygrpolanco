@@ -1,10 +1,6 @@
 ## Hi, I'm Larry
 
-I build tools that solve real problems in education and research. My work lives at the intersection of linguistics, data analysis, and practical application—where technical solutions meet human needs.
-
-### What I'm about
-
-I believe technology should serve as a means, not an end—a powerful toolkit for addressing challenges that genuinely matter. Whether I'm automating research processes, building educational applications, or analyzing communication patterns, my focus remains on the people who will benefit and the real-world value delivered. I strive to build things that enhance understanding and connection.
+I like to build tools that solve problems in education and research. My work follows my interests in linguistics, data analysis, and practical applications where technical solutions meet human needs. I believe technology should serve as a means, not an end.
 
 ### What I'm working on
 
