@@ -6,15 +6,17 @@ I like to build tools that solve problems in education and research. My work fol
 
 Here are a couple of projects I'm actively developing:
 
--   **[Hobbesian Mind Simulator](https://github.com/larrygrpolanco/hobbesian-mind)**: A philosophical AI system implementing Thomas Hobbes' model of human cognition from "Leviathan" (1651). This agent-based system processes input through sequential stages mirroring Hobbes' materialist theory—from sense perception through imagination to trains of thought—creating responses grounded in historical philosophy. (Tech: Python, asyncio, DeepSeek LLM API)
+-   **[Hobbesian Mind Simulator](https://github.com/larrygrpolanco/hobbesian-mind)**: A philosophical AI system implementing Thomas Hobbes' model of human cognition from "Leviathan" (1651). This agent-based system processes input through sequential stages mirroring Hobbes' materialist theory—from sense perception through imagination to trains of thought—creating responses grounded in historical philosophy. *(Tech: Python, asyncio, DeepSeek LLM API)*
 
--   **[Taped Chinese](https://github.com/larrygrpolanco/standard-chinese-platform)**: Digitized, modernized, and updated web application of the FSI public domain Chinese curriculum. LLM powered exercises were added to each unit to address the weaknesses of the original course and make learning more relevant and personal.
+-   **[Taped Chinese](https://github.com/larrygrpolanco/standard-chinese-platform)**: Taped Chinese: Digitized, modernized, and updated web application of the FSI public domain Chinese curriculum. I implemented "Relevant World Practice" - an LLM-powered feature that analyzes unit content, extracts key vocabulary and grammar patterns, and generates personalized exercises as structured JSON output. This addresses the original course's weakness of over-focusing on form by creating contextually relevant practice opportunities for learners based on their profiles and goals.
     *(Tech: SvelteKit, Supabase, LLM APIs)*
 
 ### Selected Past Work
     
--   **[Fulbright Planner](https://github.com/larrygrpolanco/eta-lesson-planner)**: An AI-powered tool creating context-aware lesson plans for Fulbright educators in Taiwan. Developed iteratively with user feedback to save planning time and enhance instructional quality.
+-   **[Fulbright Planner](https://github.com/larrygrpolanco/eta-lesson-planner)**: Fulbright Planner: An AI-powered tool creating context-aware lesson plans for Fulbright educators in Taiwan. Developed iteratively through testing with ~50 colleagues, this app uses progressive prompting techniques to generate comprehensive plans in logical phases. Backend analysis of app logs informed prompt optimizations to align with actual educator needs, resulting in significant time savings while maintaining pedagogical quality.
     *(Tech: Python, Svelte, Anthropic Claude API)*
+
+-   **[SABR-automated-coding](https://github.com/larrygrpolanco/SABR-automated-coding)**: A prototype tool that transforms qualitative research coding using LLMs. This system automatically identifies linguistic and thematic patterns in educational transcripts, reducing what typically takes researchers days into minutes. The backend implements a sophisticated prompt architecture that leverages few-shot learning and detailed instruction tuning to apply specific research codes with explanations. Validation testing against expert human coders showed promising agreement metrics, demonstrating the potential for AI-augmented qualitative methodology. *(Tech: Python, LLM APIs, CSV processing)*
 
 -   **[YouTube Academic Spoken English Corpus (YASEC)](https://github.com/larrygrpolanco/youtube-transcript-corpus-study)**: A foundational project for me involving the creation and analysis of a 58-million-word corpus from YouTube academic video transcripts. This was my first major effort in using code (Python scripts) to systematically scrape, process, and analyze a large dataset to answer specific research questions about the lexical demands of online academic English.
     *(Tech: Python, youtube-transcript-api)*
