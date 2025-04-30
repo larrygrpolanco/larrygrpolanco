@@ -1,6 +1,6 @@
 ## Hi, I'm Larry
 
-I like to build tools that solve problems in education and research. My work follows my interests in linguistics, data analysis, and practical applications where technical solutions meet human needs. I believe technology should serve as a means, not an end.
+I like to build tools that solve problems in education and research. My work follows my interests in linguistics, data analysis, and practical applications.
 
 ### What I'm working on
 
@@ -23,14 +23,14 @@ Here are a couple of projects I'm actively developing:
 
 ### My approach
 
-My development philosophy centers on creating tools that are genuinely useful and human-centered. I believe in building tools that:
+My development philosophy centers on creating tools that are genuinely useful. I believe in building tools that:
 
 -   Solve legitimate, experienced problems, not just theoretical ones.
 -   Respect users' time and cognitive load.
 -   Extend human capabilities rather than aiming to replace them.
 -   Are accessible and intuitive for those who need them.
 
-My background—spanning music, education, construction, and research—gives me a unique perspective on problem-solving. I've learned that meaningful innovation often happens when we connect seemingly unrelated ideas and focus on the underlying human needs.
+My background, spanning music, education, construction, and research, gives me a unique perspective on problem-solving. I've learned that meaningful innovation often happens when we connect seemingly unrelated ideas and focus on the underlying needs.
 
 ### Let's connect
 
