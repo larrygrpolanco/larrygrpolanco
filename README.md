@@ -2,9 +2,7 @@
 
 I like to build tools that solve problems in education and research. My work follows my interests in linguistics, data analysis, and practical applications.
 
-### What I'm working on
-
-Here are a couple of projects I'm actively developing:
+### Here are a couple of projects
 
 
 -   **[Taped Chinese](https://github.com/larrygrpolanco/standard-chinese-platform)**: Digitized, modernized, and updated version of the FSI public domain Chinese curriculum. I implemented "Relevant World Practice," a feature that analyzes unit content, extracts key vocabulary and grammar patterns, and generates personalized exercises. This means address the original course's weakness of over-focusing on form by creating contextually relevant practice opportunities for learners based on their profiles and goals.
@@ -19,18 +17,3 @@ Here are a couple of projects I'm actively developing:
 
 -   **[YouTube Academic Spoken English Corpus (YASEC)](https://github.com/larrygrpolanco/youtube-transcript-corpus-study)**: A foundational project for me involving the creation and analysis of a 58-million-word corpus from YouTube academic video transcripts. This was my first major effort in using code (Python scripts) to systematically scrape, process, and analyze a large dataset to answer specific research questions about the lexical demands of online academic English.
     *(Tech: Python, youtube-transcript-api)*
-
-### My approach
-
-My development philosophy centers on creating tools that are genuinely useful. I believe in building tools that:
-
--   Solve legitimate, experienced problems, not just theoretical ones.
--   Respect users' time and cognitive load.
--   Extend human capabilities rather than aiming to replace them.
--   Are accessible and intuitive for those who need them.
-
-My background, spanning music, education, construction, and research, gives me a unique perspective on problem-solving. I've learned that meaningful innovation often happens when we connect seemingly unrelated ideas and focus on the underlying needs.
-
-### Let's connect
-
-I'm always interested in collaborating on projects that help people learn, communicate, or access resources more effectively. If you're working on something along these lines, or if my approach resonates with you, feel free to reach out!
