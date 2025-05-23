@@ -4,6 +4,7 @@ I like to build tools that solve problems in education and research. My work fol
 
 ### Here are a couple of projects
 
+-   **[The Office Agent](https://github.com/larrygrpolanco/office-agent-simulation)**: The Office Agent Simulation creates a virtual office environment populated by AI agents that exhibit believable behaviors, interactions, and cognitive processes. Based on the research paper "Generative Agents: Interactive Simulacra of Human Behavior," this project ports the original architecture to a more accessible system. *(Tech: Python, Phaser, FastAPI)*
 
 -   **[Taped Chinese](https://github.com/larrygrpolanco/standard-chinese-platform)**: Digitized, modernized, and updated version of the FSI public domain Chinese curriculum. I implemented "Relevant World Practice," a feature that analyzes unit content, extracts key vocabulary and grammar patterns, and generates personalized exercises. This means address the original course's weakness of over-focusing on form by creating contextually relevant practice opportunities for learners based on their profiles and goals.
     *(Tech: SvelteKit, Supabase, LLM APIs)*
