@@ -1,6 +1,6 @@
 ## Hi, I'm Larry
 
-I like to build tools that solve problems in education and research. My work follows my interests in linguistics, data analysis, and practical applications.
+I build tools for education and research, mostly at the intersection of language, data, and software. By day I work on the data side of cancer research at Moffitt Cancer Center. On the side, I run Chaone Labs[chaonelabs.com] where I build apps for language researchers and educators.
 
 ### Here are a couple of projects
 
