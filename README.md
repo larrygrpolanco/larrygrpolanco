@@ -1,20 +1,25 @@
 ## Hi, I'm Larry
 
-I build tools for education and research, mostly at the intersection of language, data, and software. By day I work on the data side of cancer research at Moffitt Cancer Center. On the side, I run Chaone Labs[chaonelabs.com] where I build apps for language researchers and educators.
+I build tools for education and research, mostly at the intersection of language, data, and software. By day I work on the data side of cancer research at Moffitt Cancer Center. On the side, I run [Chaone Labs](https://chaonelabs.com) where I build apps for language researchers and educators.
 
-### Here are a couple of projects
+### What I'm working on
 
--   **[The Office Agent](https://github.com/larrygrpolanco/office-agent-simulation)**: The Office Agent Simulation creates a virtual office environment populated by AI agents that exhibit believable behaviors, interactions, and cognitive processes. Based on the research paper "Generative Agents: Interactive Simulacra of Human Behavior," this project ports the original architecture to a more accessible system. *(Tech: Python, Phaser, FastAPI)*
+- **[ITA Trainer](https://github.com/larrygrpolanco/ita-trainer)**: A voice-based practice tool for international teaching assistants. You talk to an AI student, then get coaching feedback on your interactional skills. Built in collaboration with education researchers. *(Next.js, LiveKit, OpenAI Realtime API)*
 
--   **[Taped Chinese](https://github.com/larrygrpolanco/standard-chinese-platform)**: Digitized, modernized, and updated version of the FSI public domain Chinese curriculum. I implemented "Relevant World Practice," a feature that analyzes unit content, extracts key vocabulary and grammar patterns, and generates personalized exercises. This means address the original course's weakness of over-focusing on form by creating contextually relevant practice opportunities for learners based on their profiles and goals.
-    *(Tech: SvelteKit, Supabase, LLM APIs)*
+- **[한국어 학습 플랫폼](https://chaonelearn.com)**: A web platform that supplements the KLEAR Integrated Korean textbook with LLM-powered interactive practice. *(SvelteKit)*
 
-### Selected Past Work
-    
--   **[Fulbright Planner](https://github.com/larrygrpolanco/eta-lesson-planner)**: An LLM-powered tool creating context-aware lesson plans for Fulbright educators in Taiwan. Developed iteratively through testing with ~50 colleagues, this app uses progressive prompting techniques to generate comprehensive plans in logical phases. Backend analysis of app logs informed prompt optimizations to align with actual educator needs, resulting in significant time savings while maintaining pedagogical quality.
-    *(Tech: Python, Svelte, Anthropic Claude API)*
+- **[LLM Temperature Consistency](https://github.com/larrygrpolanco/llm-temperature-consistency)**: Replication package for a study on how temperature settings affect LLM reliability in rhetorical move-step annotation. Designed so non-programmers can run it. *(Python, OpenAI API)*
 
--   **[SABR-automated-coding](https://github.com/larrygrpolanco/SABR-automated-coding)**: A prototype tool that transforms qualitative research coding using LLMs. This system automatically identifies linguistic and thematic patterns in educational transcripts, reducing what typically takes researchers days into minutes. The backend implements a sophisticated prompt architecture that leverages few-shot learning and detailed instruction tuning to apply specific research codes with explanations. Validation testing against expert human coders showed promising agreement metrics, demonstrating the potential for AI-augmented qualitative methodology. *(Tech: Python, LLM APIs, CSV processing)*
+- **[Pathology LLM Data Extraction](https://github.com/larrygrpolanco/pathology-llm-data-extraction)**: Evaluating open-source LLMs for zero-shot thyroid cancer pathology abstraction at Moffitt Cancer Center. *(Python, LLM APIs)*
 
--   **[YouTube Academic Spoken English Corpus (YASEC)](https://github.com/larrygrpolanco/youtube-transcript-corpus-study)**: A foundational project for me involving the creation and analysis of a 58-million-word corpus from YouTube academic video transcripts. This was my first major effort in using code (Python scripts) to systematically scrape, process, and analyze a large dataset to answer specific research questions about the lexical demands of online academic English.
-    *(Tech: Python, youtube-transcript-api)*
+### Past projects
+
+- **[LIN2002 Grading Assistant](https://github.com/larrygrpolanco/LIN2002-grading-assistant)**: An AI grading tool for a linguistics and film studies course. It learns from real instructor feedback using few-shot examples and outputs scores and written feedback in the instructor's voice. *(SvelteKit, Google Gemini)*
+
+- **[The Office Agent](https://github.com/larrygrpolanco/office-agent-simulation)**: A virtual office simulation with AI agents that perceive, plan, reflect, and interact. Based on the "Generative Agents" paper by Park et al., ported to a simpler architecture. *(Python, Phaser, FastAPI)*
+
+- **[Fulbright Planner](https://github.com/larrygrpolanco/eta-lesson-planner)**: An LLM-powered lesson planning tool I built while coordinating a Fulbright program in Taiwan. Tested with ~50 colleagues and refined based on actual usage logs. *(Python, Svelte, Claude API)*
+
+- **[SABR Automated Coding](https://github.com/larrygrpolanco/SABR-automated-coding)**: A prototype that uses LLMs to do qualitative research coding on educational transcripts. Validated against expert human coders. *(Python, LLM APIs)*
+
+- **[YASEC](https://github.com/larrygrpolanco/youtube-transcript-corpus-study)**: My first real coding project. A 58-million-word corpus built from YouTube academic transcripts to study the vocabulary demands of online lectures. *(Python)*
